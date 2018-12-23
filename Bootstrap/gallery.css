@@ -12,9 +12,9 @@ body{
 }
 
 .navbar-inverse .navbar-nav>li>a{
-    color: white;
+    color: black;
 }
 
 .navbar-inverse .navbar-brand{
-    color: white;
+    color: black;
 }
